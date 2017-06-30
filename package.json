@@ -17,8 +17,15 @@
   },
   "homepage": "https://github.com/noxcorporation/Tahj_Bot#readme",
   "dependencies": {
+    "bufferutil": "^3.0.1",
     "discord-music-bot": "^2.3.0",
+    "erlpack": "github:hammerandchisel/erlpack",
     "express": "^4.15.3",
+    "libsodium-wrappers": "^0.5.1",
+    "opusscript": "0.0.3",
+    "readline": "^1.3.0",
+    "sodium": "^2.0.1",
+    "uws": "^8.14.0",
     "winston": "^2.3.1"
   }
 }

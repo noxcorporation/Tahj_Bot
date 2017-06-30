@@ -1,8 +1,8 @@
 var bot = require("discord-music-bot");
 var logger = require("./lib/logger.js");
 var express = require('express');
-var fs = require('fs'),
-var rl = require('readline'),
+var fs = require('fs');
+var rl = require('readline');
 
 var httpServer = express();
 
