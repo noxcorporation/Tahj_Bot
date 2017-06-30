@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/noxcorporation/Tahj_Bot#readme",
   "dependencies": {
-    "discord-music-bot": "^2.3.0"
+    "discord-music-bot": "^2.3.0",
+    "express": "^4.15.3",
+    "winston": "^2.3.1"
   }
 }
