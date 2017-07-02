@@ -26,5 +26,9 @@
     "sodium": "^2.0.1",
     "uws": "^8.14.0",
     "winston": "^2.3.1"
+	"discord.js": "^11.0.0",
+    "node-opus": "^0.2.4",
+    "request": "^2.79.0",
+    "ytdl-core": "^0.7.21"
   }
 }
